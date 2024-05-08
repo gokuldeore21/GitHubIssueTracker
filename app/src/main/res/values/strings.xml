@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Git Hub Issue Tracker</string>
+    <string-array name="filter_options">
+        <item>All issues</item>
+        <item>Open issues</item>
+        <item>Closed issues</item>
+    </string-array>
+</resources>

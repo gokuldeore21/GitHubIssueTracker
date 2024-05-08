@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.GitHubIssueTracker" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/my_light_primary</item>
+
+        
+        <item name="android:statusBarColor">@android:color/black</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+
+    </style>
+    <style name="Theme.GitHubIssueTracker" parent="Base.Theme.GitHubIssueTracker"/>
+</resources>

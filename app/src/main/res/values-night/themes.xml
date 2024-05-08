@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GitHubIssueTracker" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/my_light_primary</item>
+
+        <!-- Add these lines to change status bar and toolbar color to black -->
+        <item name="android:statusBarColor">@android:color/black</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+
+    </style>
+
+    <style name="Theme.GitHubIssueTracker" parent="Base.Theme.GitHubIssueTracker" />
+</resources>

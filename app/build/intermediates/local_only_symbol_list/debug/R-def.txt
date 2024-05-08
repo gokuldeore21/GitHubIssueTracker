@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+array filter_options
+color black
+color my_light_primary
+color statusBarColor
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable item_border
+drawable logo
+id closedAtTextView
+id createdAtTextView
+id recyclerView
+id searchCardView
+id searchView
+id spinnerFilter
+id titleTextView
+id userImageView
+id userNameTextView
+layout activity_main
+layout issue_list_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.GitHubIssueTracker
+style Theme.GitHubIssueTracker
+xml backup_rules
+xml data_extraction_rules

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filter_options">
+        <item>All issues</item>
+        <item>Open issues</item>
+        <item>Closed issues</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="my_light_primary">#FFFFFF</color>
+    <color name="statusBarColor">#050505</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Git Hub Issue Tracker</string>
+    <style name="Base.Theme.GitHubIssueTracker" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/my_light_primary</item>
+
+        
+        <item name="android:statusBarColor">@android:color/black</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+
+    </style>
+    <style name="Theme.GitHubIssueTracker" parent="Base.Theme.GitHubIssueTracker"/>
+</resources>
