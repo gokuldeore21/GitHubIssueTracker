@@ -6,6 +6,7 @@ GitHub Issue Tracker is an Android application developed using Kotlin that allow
 ## Features
 
 - **Listing Issues**: View all issues of a GitHub repository.
+- **Search Functionality**: Search repository issues.
 - **Filtering Options**: Users can filter issues by status:
   - Open issues
   - Closed issues
